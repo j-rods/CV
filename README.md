@@ -55,6 +55,11 @@ Responsibilities:
 
 **Reed Exhibitions** (January 2011 – December 16th, 2011)  
 *Junior UX Designer*
+Responsibilities:  
+* Supporting the needs of the eBusiness Directors by qualifying ideas into compelling products ready for their input and review.
+* Designing wireframes and prototypes, corporate Brands, product Sheets and surveys.
+* Clickable Wireframes via Axure for Exhibition Shows.
+* A revised set of web analytics pushed into a dashboard to help give sight of the effect of each concept.
 
 ##Extensive Software Knowledge
 
