@@ -40,7 +40,7 @@ Responsibilities:
 * Creating user journeys, customer maps, prototypes, interaction guides and wireframes.
 * Work with stakeholders, digital and non-digital, to ensure the customer journey fulfills the organisation’s requirements
 
-STA Travel November 2014 – March 2015)
+STA Travel November 2014 – March 2015) 
 *Global UX Designer*
 Responsibilities:
 * Drive the design of the user experience for key projects, applying an iterative prototyping and evaluation process, and ensuring that best practices in usability and accessibility are used throughout.
