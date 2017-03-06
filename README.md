@@ -14,35 +14,39 @@ I'm an enthusiastic Junior Front End Developer with a solid background in UX Des
 * Lateral thinker with excellent problem solving skills.
 
 ##Skills
-* Ruby
-* Rspec
-* Agile Practices
-* TDD / BDD
-* Pair Programming
-* HTML,CSS3,Bootstrap
-* Javascript
+* Ruby.
+* Rspec.
+* Agile Practices.
+* TDD / BDD.
+* Pair Programming.
+* Version Control.
+* HTML,CSS3,Bootstrap.
+* Javascript.
 
 ##Extensive Software Knowledge
 
-* Sublime
-* Axure 8
-* Adobe Photoshop CS
-* Adobe Illustrator CS
-* Sketch 3
-* Marvel app
-* Invision
-* Google Analytics
+* Sublime text 3.
+* Axure 8.
+* Adobe Photoshop CS.
+* Adobe Illustrator CS.
+* Sketch 3.
+* Marvel app.
+* Invision.
+* Google Analytics.
 
 ##Good software knowledge
-* Proto.io
-* Adobe InDesign
-* Hotjar
+* Proto.io.
+* Adobe InDesign.
+* Hotjar.
 
 ##Languages
 Fluent English/Spanish (written and oral).
 
 ##Education
-###Makers Academy (January - June 2017)
+###[Makers Academy], London (January - June 2017)
+* Highly selective 12 week full-time course.
 
 ###Bachelor of Arts(BA), Design (2010)
 University of La Laguna, Santa Cruz de Tenerife, SPAIN.
+
+[Makers Academy]:http://www.makersacademy.com
