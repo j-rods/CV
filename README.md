@@ -34,9 +34,7 @@ To be added | TBC | TBC
 ##Experience
 
 **BCSG (March 2015 – November 2016)**
-
 *UX/UI Designer*
-
 Responsibilities:
 * Work alongside the product team, development team and wider business stakeholders to create the optimal customer experience to deliver the customer and business outcomes.
 * Creating user journeys, customer maps, prototypes, interaction guides and wireframes.
