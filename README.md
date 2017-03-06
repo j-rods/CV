@@ -44,7 +44,7 @@ Fluent English/Spanish (written and oral).
 
 ##Education
 ###[Makers Academy], London (January - June 2017)
-* Highly selective 12 week full-time course.
+Makers Academy is a highly-selective, 12 week full-time program that teaches web development.
 
 ###Bachelor of Arts(BA), Design (2010)
 University of La Laguna, Santa Cruz de Tenerife, SPAIN.
