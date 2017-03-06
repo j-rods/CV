@@ -21,7 +21,6 @@ I'm an enthusiastic Junior Front End Developer with a solid background in UX Des
 * Pair Programming
 * HTML,CSS3,Bootstrap
 * Javascript
-* Google Analytics
 
 ##Extensive Software Knowledge
 
@@ -32,9 +31,18 @@ I'm an enthusiastic Junior Front End Developer with a solid background in UX Des
 * Sketch 3
 * Marvel app
 * Invision
+* Google Analytics
 
 ##Good software knowledge
 * Proto.io
 * Adobe InDesign
 * Hotjar
 
+##Languages
+Fluent English/Spanish (written and oral).
+
+##Education
+#Makers Academy (January - June 2017)
+
+#Bachelor of Arts(BA), Design (2010)
+University of La Laguna, Santa Cruz de Tenerife, SPAIN.
