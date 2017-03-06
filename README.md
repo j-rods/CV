@@ -35,7 +35,6 @@ To be added | TBC | TBC
 
 Line1
 Line2
-Line3
 
 ##Extensive Software Knowledge
 
