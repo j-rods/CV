@@ -16,12 +16,27 @@ I'm an enthusiastic Junior Front End Developer with a solid background in UX Des
 ##Skills
 * Ruby.
 * Rspec.
-* Agile Practices.
+* Agile Methodologies.
+* JIRA Platform.
 * TDD / BDD.
 * Pair Programming.
 * Version Control.
 * HTML,CSS3,Bootstrap.
 * Javascript.
+
+##Projects
+
+Project | Summary | Technologies
+------- | ------- | ------------
+To be added | TBC | TBC
+To be added | TBC | TBC
+
+##Experience
+
+BCSG – UX Designer (March 2015 – November 2016)
+STA Travel – Global UX Designer (November 2014 – March 2015)
+Perform Group Media – UX Architect (March 2012 – November  2014)
+Reed Exhibitions – Junior User Experience Designer (January 2011 – December 16th, 2011)
 
 ##Extensive Software Knowledge
 
