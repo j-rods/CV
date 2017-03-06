@@ -33,24 +33,28 @@ To be added | TBC | TBC
 
 ##Experience
 
-BCSG – UX Designer (March 2015 – November 2016)
+BCSG (March 2015 – November 2016)
+*UX/UI Designer*
 Responsibilities:
 * Work alongside the product team, development team and wider business stakeholders to create the optimal customer experience to deliver the customer and business outcomes.
 * Creating user journeys, customer maps, prototypes, interaction guides and wireframes.
 * Work with stakeholders, digital and non-digital, to ensure the customer journey fulfills the organisation’s requirements
 
-STA Travel – Global UX Designer (November 2014 – March 2015)
+STA Travel November 2014 – March 2015)
+*Global UX Designer*
 Responsibilities:
 * Drive the design of the user experience for key projects, applying an iterative prototyping and evaluation process, and ensuring that best practices in usability and accessibility are used throughout.
 * Work with the product,design and development team for the design of innovative solutions that are engaging, usable and accessible solutions which change the way people interact with us. 
 
-Perform Group Media – UX Architect (March 2012 – November  2014)
+Perform Group Media (March 2012 – November  2014)
+*UX Architect*
 Responsibilities:
 * Producing sitemaps, process flows, functional specifications, low and high fidelity wireframes, responsive wireframes and interactive prototypes using Axure.
 * Taking part in the design and redesign of desktop and mobile applications, providing the information architecture and interaction design. 
 * Performing usability testing sessions to improve our live and running services.
 
-Reed Exhibitions – Junior User Experience Designer (January 2011 – December 16th, 2011)
+Reed Exhibitions (January 2011 – December 16th, 2011)
+*Junior UX Designer*
 
 ##Extensive Software Knowledge
 
