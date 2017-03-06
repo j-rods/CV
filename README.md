@@ -34,8 +34,22 @@ To be added | TBC | TBC
 ##Experience
 
 BCSG – UX Designer (March 2015 – November 2016)
+Responsibilities:
+* Work alongside the product team, development team and wider business stakeholders to create the optimal customer experience to deliver the customer and business outcomes.
+* Creating user journeys, customer maps, prototypes, interaction guides and wireframes.
+* Work with stakeholders, digital and non-digital, to ensure the customer journey fulfills the organisation’s requirements
+
 STA Travel – Global UX Designer (November 2014 – March 2015)
+Responsibilities:
+* Drive the design of the user experience for key projects, applying an iterative prototyping and evaluation process, and ensuring that best practices in usability and accessibility are used throughout.
+* Work with the product,design and development team for the design of innovative solutions that are engaging, usable and accessible solutions which change the way people interact with us. 
+
 Perform Group Media – UX Architect (March 2012 – November  2014)
+Responsibilities:
+* Producing sitemaps, process flows, functional specifications, low and high fidelity wireframes, responsive wireframes and interactive prototypes using Axure.
+* Taking part in the design and redesign of desktop and mobile applications, providing the information architecture and interaction design. 
+* Performing usability testing sessions to improve our live and running services.
+
 Reed Exhibitions – Junior User Experience Designer (January 2011 – December 16th, 2011)
 
 ##Extensive Software Knowledge
@@ -59,9 +73,17 @@ Fluent English/Spanish (written and oral).
 
 ##Education
 ###[Makers Academy], London (January - June 2017)
-Makers Academy is a highly-selective, 12 week full-time program that teaches web development.
+* Highly-selective, 12 week full-time Software Development program / 10% Acceptance
+* Independent learner and problem-solver
+* OOP, TDD, SOLID, MVC, DDD
+* Software Craftsmanship
+* Ruby, Rails, Javascript, Node.js, Angular.js
+* Rspec, Jasmine, Mocha
 
 ###Bachelor of Arts(BA), Design (2010)
 University of La Laguna, Santa Cruz de Tenerife, SPAIN.
 
 [Makers Academy]:http://www.makersacademy.com
+
+##Interests
+Videogames, Film, Travelling, Music, Football.
