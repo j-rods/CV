@@ -33,6 +33,10 @@ To be added | TBC | TBC
 
 ##Experience
 
+Line1
+Line2
+Line3
+
 **BCSG**
 *UX/UI Designer*
 Responsibilities:
