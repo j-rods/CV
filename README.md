@@ -21,7 +21,7 @@ I'm an enthusiastic Junior Front End Developer with a solid background in UX Des
 * TDD / BDD.
 * Pair Programming.
 * Version Control.
-* HTML,CSS3,Bootstrap.
+* HTML5,CSS3,Bootstrap.
 * Javascript.
 
 ##Projects
