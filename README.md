@@ -54,7 +54,7 @@ Responsibilities:
 * Performing usability testing sessions to improve our live and running services.
 
 **Reed Exhibitions** (January 2011 – December 16th, 2011)  
-*Junior UX Designer*
+*Junior UX Designer*  
 Responsibilities:  
 * Supporting the needs of the eBusiness Directors by qualifying ideas into compelling products ready for their input and review.
 * Designing wireframes and prototypes, corporate Brands, product Sheets and surveys.
