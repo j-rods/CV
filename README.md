@@ -95,4 +95,7 @@ University of La Laguna, Santa Cruz de Tenerife, SPAIN.
 [Makers Academy]:http://www.makersacademy.com
 
 ##Interests
-Videogames, Film, Travelling, Music, Football.
+Videogames, Film, Travelling, Music, Football.  
+  
+
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
