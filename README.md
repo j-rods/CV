@@ -38,30 +38,28 @@ To be added | TBC | TBC
 **BCSG** (March 2015 - November 2016)  
 *UX/UI Designer*  
 Responsibilities:  
-* Work alongside the product team, development team and wider business stakeholders to create the optimal customer experience to deliver the customer and business outcomes.
-* Creating user journeys, customer maps, prototypes, interaction guides and wireframes.
-* Work with stakeholders, digital and non-digital, to ensure the customer journey fulfills the organisation’s requirements
+* Worked alongside the product team, development team and wider business stakeholders, creating the optimal customer experience to deliver to the customer and business outcomes.
+* Created user journeys, customer maps, wireframes, prototypes, logic documentation, visual designs and interaction guides.
+* Worked with stakeholders, digital and non-digital, to ensure the customer journey fulfills the organisation’s requirements.  
 
 **STA Travel** (November 2014 – March 2015)  
 *Global UX Designer*  
 Responsibilities:  
-* Drive the design of the user experience for key projects, applying an iterative prototyping and evaluation process, and ensuring that best practices in usability and accessibility are used throughout.
-* Work with the product,design and development team for the design of innovative solutions that are engaging, usable and accessible solutions which change the way people interact with us. 
+* Drove the design of the user experience for key projects, applying an iterative prototyping and evaluation process, and ensuring that best practices in usability and accessibility are used throughout.
+* Worked with the product,design and development team for the design of innovative solutions that are engaging, usable and accessible solutions which change the way people interact with us. 
 
 **Perform Group Media** (March 2012 – November  2014)  
 *UX Architect*  
 Responsibilities:  
-* Producing sitemaps, process flows, functional specifications, low and high fidelity wireframes, responsive wireframes and interactive prototypes using Axure.
-* Taking part in the design and redesign of desktop and mobile applications, providing the information architecture and interaction design. 
-* Performing usability testing sessions to improve our live and running services.
+* Produced sitemaps, process flows, functional specifications, low and high fidelity wireframes, responsive wireframes and interactive prototypes using Axure.
+* Took part in the design and redesign of desktop and mobile applications, providing the information architecture and interaction design. 
+* Performed usability testing sessions to improve our live and running services.
 
 **Reed Exhibitions** (January 2011 – December 16th, 2011)  
 *Junior UX Designer*  
 Responsibilities:  
-* Supporting the needs of the eBusiness Directors by qualifying ideas into compelling products ready for their input and review.
-* Designing wireframes and prototypes, corporate Brands, product Sheets and surveys.
-* Clickable Wireframes via Axure for Exhibition Shows.
-* A revised set of web analytics pushed into a dashboard to help give sight of the effect of each concept.
+* Supported the needs of the eBusiness Directors by qualifying ideas into compelling products ready for their input and review.
+* Designed wireframes and clickable prototypes via Axure for Exhibition Shows.  
 
 ##Extensive Software Knowledge
 
