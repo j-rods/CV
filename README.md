@@ -96,6 +96,4 @@ University of La Laguna, Santa Cruz de Tenerife, SPAIN.
 
 ##Interests
 Videogames, Film, Travelling, Music, Football.  
-  
-  
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#extensive-software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
+ 
