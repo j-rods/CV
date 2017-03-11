@@ -1,6 +1,6 @@
 ##Jessica Rodriguez
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#extensive-software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
   
 I'm an enthusiastic Junior full stack Ruby developer specialising in front end, with a solid background in UX Design. Having a keen interest in software development, I decided to make a career change from UX and join Makers Academy, which is the leading developer Bootcamp in Europe. With Makers I have learned the principles of software developer craftsmanship and now I am ready to take on a new challenge where I can blend my expertise in Information Architecture and Interaction Design, with my passion for coding.
 
