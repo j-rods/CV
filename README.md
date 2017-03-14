@@ -1,4 +1,4 @@
-##Jessica Rodriguez
+## Jessica Rodriguez
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#extensive-software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
   
