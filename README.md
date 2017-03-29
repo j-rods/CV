@@ -4,7 +4,7 @@
   
 I'm an enthusiastic full stack Ruby developer, with a specialization in front end and a solid background in UX Design. Having a keen interest in software development, I decided to join Makers Academy which is the leading developer Bootcamp in Europe. With Makers I have learned the principles of software developer craftsmanship and now I am ready to take on a new challenge. I am seeking an opportunity in an environment where I will grow, and not only be part of what I already do but encouraged to learn more and participate in defining success. This would give me the support to expand my knowledge, improve my skills, learn new techniques and progress professionally.  
   
-##Personal Attributes
+## Personal Attributes
 
 * Excellent organisational skills and attention to detail.
 * Highly motivated, with ability to work well under own supervision.
@@ -15,9 +15,11 @@ I'm an enthusiastic full stack Ruby developer, with a specialization in front en
 * Adaptable and an extremely quick learner.
 * Lateral thinker with excellent problem solving skills.
 
-##Skills
+## Skills
 * Ruby.
 * Rspec.
+* Sinatra.
+* Capybara.
 * Agile Methodologies.
 * JIRA Platform.
 * TDD / BDD.
@@ -26,14 +28,14 @@ I'm an enthusiastic full stack Ruby developer, with a specialization in front en
 * HTML5,CSS3,Bootstrap.
 * Javascript.
 
-##Projects
+## Projects
 
 Project | Summary | Technologies
 ------- | ------- | ------------
 To be added | TBC | TBC
 To be added | TBC | TBC
 
-##Experience
+## Experience
 
 **BCSG** (March 2015 - November 2016)  
 *UX/UI Designer*  
@@ -61,7 +63,8 @@ Responsibilities:
 * Supported the needs of the eBusiness Directors by qualifying ideas into compelling products ready for their input and review.
 * Designed wireframes and clickable prototypes via Axure for Exhibition Shows.  
 
-##Extensive Software Knowledge
+## Extensive Software Knowledge
+
 
 * Sublime text 3.
 * Axure 8.
@@ -72,7 +75,7 @@ Responsibilities:
 * Invision.
 * Google Analytics.
 
-##Good software knowledge
+## Good software knowledge
 * Proto.io.
 * Adobe InDesign.
 * Hotjar.
@@ -80,8 +83,9 @@ Responsibilities:
 ##Languages
 Fluent English/Spanish (written and oral).
 
-##Education
-###[Makers Academy], London (January - June 2017)
+
+## Education
+### [Makers Academy], London (January - June 2017)
 * Highly-selective, 12 week full-time Software Development program / 10% Acceptance
 * Independent learner and problem-solver
 * OOP, TDD, SOLID, MVC, DDD
@@ -89,11 +93,11 @@ Fluent English/Spanish (written and oral).
 * Ruby, Rails, Javascript, Node.js, Angular.js
 * Rspec, Jasmine, Mocha
 
-###Bachelor of Arts(BA), Design (2010)
+### Bachelor of Arts(BA), Design (2010)
 University of La Laguna, Santa Cruz de Tenerife, SPAIN.
 
 [Makers Academy]:http://www.makersacademy.com
 
-##Interests
+## Interests
 Videogames, Film, Travelling, Music, Football.  
  
