@@ -80,7 +80,7 @@ Responsibilities:
 * Adobe InDesign.
 * Hotjar.
 
-##Languages
+## Languages
 Fluent English/Spanish (written and oral).
 
 
