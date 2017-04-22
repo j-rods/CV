@@ -17,9 +17,11 @@ I'm an enthusiastic full stack Ruby developer, with a specialization in front en
 
 ## Skills
 * Ruby.
-* Rspec.
+* RSpec.
 * Sinatra.
 * Capybara.
+* Heroku.
+* SQL.
 * Agile Methodologies.
 * JIRA Platform.
 * TDD / BDD.
@@ -27,13 +29,19 @@ I'm an enthusiastic full stack Ruby developer, with a specialization in front en
 * Version Control.
 * HTML5,CSS3,Bootstrap.
 * Javascript.
+* Jasmine.
+* jQuery.
+* Ajax.
+* Android Studio
 
 ## Projects
 
 Project | Summary | Technologies
 ------- | ------- | ------------
-To be added | TBC | TBC
-To be added | TBC | TBC
+[Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Build a player vs computer RPS game for the web | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
+[Chitter](https://github.com/j-rods/chitter-challenge) | Write a little Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
+[MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
+
 
 ## Experience
 
