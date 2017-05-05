@@ -1,6 +1,6 @@
 ## Jessica Rodriguez
 
-[Projects](#projects) | [Experience](#experience) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
+[Skills](#understanding-of)[Projects](#projects) | [Experience](#experience) | [Software Knowledge](#extensive-software-knowledge)[Languages](#languages) | [Education](#education) | [Interests](#interests)  
   
 I'm an enthusiastic full stack developer, with a specialization in front end and a solid background in UX Design. Having a keen interest in software development, I decided to join Makers Academy which is the leading developer Bootcamp in Europe. With Makers I have learned the principles of software developer craftsmanship and now I am ready to take on a new challenge. I am seeking an opportunity in an environment where I will grow, and not only be part of what I already do but encouraged to learn more and participate in defining success. This would give me the support to expand my knowledge, improve my skills, learn new techniques and progress professionally.  
   
@@ -15,17 +15,37 @@ I'm an enthusiastic full stack developer, with a specialization in front end and
 * Adaptable and an extremely quick learner.
 * Lateral thinker with excellent problem solving skills.
 
+## Understanding of:
+
+ * Ruby.
+ * RSpec.
+ * Sinatra.
+ * Capybara.
+ * SQL.
+ * Rails.
+ * Agile Methodologies.
+ * JIRA Platform.
+ * TDD / BDD.
+ * Pair Programming.
+ * Version Control.
+ * HTML5,CSS3,Bootstrap.
+ * Javascript.
+ * Jasmine.
+ * jQuery.
+ * Ajax.
+ * Heroku.
+
 ## Projects
 
 Project | Summary | Technologies
 ------- | ------- | ------------
-[Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Build a player vs computer RPS game for the web | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
-[Chitter](https://github.com/j-rods/chitter-challenge) | Write a little Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
+[Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Full stack project where I built a player vs computer RPS game for the web. | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
+[Chitter](https://github.com/j-rods/chitter-challenge) | Full stack project where I built a Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
 [MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
 
 
-## Experience
-
+## Experience  
+  
 **BCSG** (March 2015 - November 2016)  
 *UX/UI Designer*  
 Responsibilities:  
@@ -50,8 +70,28 @@ Responsibilities:
 *Junior UX Designer*  
 Responsibilities:  
 * Supported the needs of the eBusiness Directors by qualifying ideas into compelling products ready for their input and review.
-* Designed wireframes and clickable prototypes via Axure for Exhibition Shows.  
-a## Languages
+* Designed wireframes and clickable prototypes via Axure for Exhibition Shows.
+
+## Extensive Software Knowledge
+  
+ * Sublime text 3.
+ * Axure 8.
+ * Adobe Photoshop CS.
+ * Adobe Illustrator CS.
+ * Sketch 3.
+ * Marvel app.
+ * Invision.
+ * Google Analytics.
+  
+## Good software knowledge
+  
+ * Proto.io.
+ * Adobe InDesign.
+ * Hotjar.
+ * PSequel.
+ * iTerm2. 
+  
+## Languages
 Fluent English/Spanish (written and oral).
 
 ## Education
