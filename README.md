@@ -43,6 +43,7 @@ Project | Summary | Technologies
 [Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Full stack project where I built a player vs computer RPS game for the web. | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
 [Chitter](https://github.com/j-rods/chitter-challenge) | Full stack project where I built a Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
 [MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
+[Travelgram](https://github.com/j-rods/instagram-challenge) | I built an instagram app as part of a Makers challenge using Ruby on Rails. I followed the look and feel of Instagram to create Travelgram  | Ruby 2.4, Rails 5, RSpec, Capybara, Devise, Omniauth, Shoulda, Imagemagick, Paperclip, HTML5, CSS3, Heroku, aws s3
 
 
 ## Experience  
@@ -90,7 +91,12 @@ Responsibilities:
  * Adobe InDesign.
  * Hotjar.
  * PSequel.
- * iTerm2. 
+ * iTerm2.
+
+## Basic software knowledge
+
+ * Android Studio
+ * SourceTree
   
 ## Languages
 Fluent English/Spanish (written and oral).
