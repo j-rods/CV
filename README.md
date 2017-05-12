@@ -28,7 +28,7 @@ I'm an enthusiastic full stack developer, with a specialization in front end and
  * TDD / BDD.
  * Pair Programming.
  * Version Control.
- * HTML5,CSS3,Bootstrap.
+ * HTML5,CSS,Bootstrap.
  * Javascript.
  * Jasmine.
  * jQuery.
