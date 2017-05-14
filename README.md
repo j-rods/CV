@@ -2,7 +2,7 @@
 
 [Skills](#understanding-of) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#extensive-software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
   
-I'm an enthusiastic full stack developer, with a specialization in front end and a solid background in UX Design. Having a keen interest in software development, I decided to join Makers Academy which is the leading developer Bootcamp in Europe. With Makers I have learned the principles of software developer craftsmanship and now I am ready to take on a new challenge. I am seeking an opportunity in an environment where I will grow, and not only be part of what I already do but encouraged to learn more and participate in defining success. This would give me the support to expand my knowledge, improve my skills, learn new techniques and progress professionally.  
+I'm an enthusiastic full stack developer, with a specialization in front end and a solid background in UX Design. Having a keen interest in software development, I decided to join Makers Academy which is one of the leading developer bootcamps in Europe. With Makers I have learned the principles of software developer craftsmanship and now I am ready to take on a new challenge. I am seeking an opportunity in an environment where I will grow, and not only be part of what I already do but encouraged to learn more and participate in defining success. This would give me the support to expand my knowledge, improve my skills, learn new techniques and progress professionally.  
   
 ## Personal Attributes
 
