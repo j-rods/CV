@@ -14,22 +14,20 @@ I am seeking an opportunity in an environment where I will continue to develop a
 
 ## Understanding of:
 
-* Javascript.
-* HTML5.
-* CSS.
+* Javascript.  
+* HTML5.  
+* CSS.  
 * React Native.
 * Bootstrap.
 * jQuery.
 * Ajax.
 * JSON.
- 
 * TDD / BDD.
 * Agile Methodologies.
 * JIRA Platform.
 * Version Control / Git.
 * Pair Programming.
 * Heroku server.
- 
 * Ruby.
 * RSpec.
 * Sinatra.
