@@ -1,6 +1,6 @@
 ## Jessica Rodriguez
 
-[Skills](#understanding-of) | [Projects](#projects) | [Experience](#experience) | [Software Knowledge](#extensive-software-knowledge) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
+[Skills](#understanding-of) | [Software Knowledge](#extensive-software-knowledge) | [Experience](#experience) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
   
 I'm an enthusiastic Junior Front End Developer with a solid background in UX Design. 
  
@@ -60,7 +60,32 @@ I am seeking an opportunity in an environment where I will continue to develop a
  * SourceTree
 
 ## Experience  
-  
+
+**[Makers Academy]** (January - June 2017)
+Makers Academy is a highly-selective, 12 week full-time Software Development program with 10% Acceptance rate.
+
+* Independent learning and program problem-solving
+* Key programming skills 
+* Software Craftsmanship
+* Object oriented programming
+* Test driven development (RSpec, Jasmine)
+* SOLID principles and best practices
+* MVC pattern
+
+### Makers Projects
+
+Project | Summary | Technologies
+------- | ------- | ------------
+[Eat Me App](https://github.com/Simba14/EatMe) | Final Project - Native iOS app that helps users keep track of their food's expiration dates to reduce food waste. | React Native (Main language used to built the app.) 
+Jest (Testing framework) 
+Realm (Used to set up local databases to store information about food items) 
+UPC Database API (API used for looking up food items based on Barcode information) 
+Food2Fork API (API used for looking up recipes based on user's current food items)
+[Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Full stack project where I built a player vs computer RPS game for the web. | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
+[Chitter](https://github.com/j-rods/chitter-challenge) | Full stack project where I built a Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
+[MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
+[Travelgram](https://github.com/j-rods/instagram-challenge) | I built an instagram app as part of a Makers challenge using Ruby on Rails. I followed the look and feel of Instagram to create Travelgram  | Ruby 2.4, Rails 5, RSpec, Capybara, Devise, Omniauth, Shoulda, Imagemagick, Paperclip, HTML5, CSS3, Heroku, aws s3
+
 **BCSG** (March 2015 - November 2016)  
 *UX/UI Designer*  
 Responsibilities:  
@@ -91,23 +116,7 @@ Responsibilities:
 Fluent English/Spanish (written and oral).
 
 ## Education
-### [Makers Academy], London (January - June 2017)
-* Highly-selective, 12 week full-time Software Development program / 10% Acceptance
-* Independent learner and problem-solver
-* OOP, TDD, SOLID, MVC, DDD
-* Software Craftsmanship
-* Ruby, Rails, Javascript, Node.js
-* Rspec, Jasmine, Mocha
-
-### Makers Projects
-
-Project | Summary | Technologies
-------- | ------- | ------------
-[Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Full stack project where I built a player vs computer RPS game for the web. | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
-[Chitter](https://github.com/j-rods/chitter-challenge) | Full stack project where I built a Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
-[MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
-[Travelgram](https://github.com/j-rods/instagram-challenge) | I built an instagram app as part of a Makers challenge using Ruby on Rails. I followed the look and feel of Instagram to create Travelgram  | Ruby 2.4, Rails 5, RSpec, Capybara, Devise, Omniauth, Shoulda, Imagemagick, Paperclip, HTML5, CSS3, Heroku, aws s3
-
+  
 ### Bachelor of Arts(BA), Design (2010)
 University of La Laguna, Santa Cruz de Tenerife, SPAIN.
 
