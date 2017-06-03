@@ -2,7 +2,7 @@
 
 [Skills](#understanding-of) | [Software Knowledge](#extensive-software-knowledge) | [Experience](#experience) | [Languages](#languages) | [Education](#education) | [Interests](#interests)  
   
-I'm an enthusiastic Junior Front End Developer with a solid background in UX Design. 
+I'm an enthusiastic Junior Full Stack Developer with a solid background in UX Design. 
  
 As a UX Designer I specialised in Information Architecture and Interaction Design. I have been involved from an early stage in the design of user centered interfaces from mobile to desktop. With good awareness of current trends and emerging technologies, I’d take part in producing innovative cross-platform experiences, working closely with product and development teams.
  
@@ -77,10 +77,7 @@ Makers Academy is a highly-selective, 12 week full-time Software Development pro
 Project | Summary | Technologies
 ------- | ------- | ------------
 [Eat Me App](https://github.com/Simba14/EatMe) | Final Project - Native iOS app that helps users keep track of their food's expiration dates to reduce food waste. | React Native (Main language used to built the app.) 
-Jest (Testing framework) 
-Realm (Used to set up local databases to store information about food items) 
-UPC Database API (API used for looking up food items based on Barcode information) 
-Food2Fork API (API used for looking up recipes based on user's current food items)
+Jest: Testing framework; Realm: Used to set up local databases to store information about food items; UPC Database API: API used for looking up food items based on Barcode information; Food2Fork API: API used for looking up recipes based on user's current food items
 [Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Full stack project where I built a player vs computer RPS game for the web. | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
 [Chitter](https://github.com/j-rods/chitter-challenge) | Full stack project where I built a Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
 [MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
