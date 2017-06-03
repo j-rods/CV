@@ -61,7 +61,7 @@ I am seeking an opportunity in an environment where I will continue to develop a
 
 ## Experience  
 
-**[Makers Academy]** (January - June 2017)
+**[Makers Academy]** (January - June 2017)  
 Makers Academy is a highly-selective, 12 week full-time Software Development program with 10% Acceptance rate.
 
 * Independent learning and program problem-solving
