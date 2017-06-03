@@ -76,8 +76,7 @@ Makers Academy is a highly-selective, 12 week full-time Software Development pro
 
 Project | Summary | Technologies
 ------- | ------- | ------------
-[Eat Me App](https://github.com/Simba14/EatMe) | Final Project - Native iOS app that helps users keep track of their food's expiration dates to reduce food waste. | React Native: Main language used to built the app;  
-Jest: Testing framework; Realm: Used to set up local databases to store information about food items; UPC Database API: API used for looking up food items based on Barcode information; Food2Fork API: API used for looking up recipes based on user's current food items
+[Eat Me App](https://github.com/Simba14/EatMe) | Final Project - Native iOS app that helps users keep track of their food's expiration dates to reduce food waste. | **React Native**: Main language used to built the app; **Jest**: Testing framework; **Realm**: Used to set up local databases to store information about food items; **UPC Database API**: API used for looking up food items based on Barcode information; **Food2Fork API**: API used for looking up recipes based on user's current food items
 [Rock Paper Scissors Game](https://github.com/j-rods/rps-challenge) | Full stack project where I built a player vs computer RPS game for the web. | RSpec test driven, sinatra, Capybara, Selenium-webdriver, Rack, Heroku, HTML5, CSS3
 [Chitter](https://github.com/j-rods/chitter-challenge) | Full stack project where I built a Twitter clone that will allow the users to post messages to a public stream. | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
 [MakersBnB](https://github.com/jackbittiner/Makersbnb) | Group Project to build a clone of Airbnb | Ruby 2.4, Sinatra, RSpec, Heroku, Capybara, Rack, DataMapper, SQL, BCrypt, Sinatra-Flash, Database-Cleaner, HTML5, CSS3
