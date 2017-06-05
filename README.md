@@ -10,7 +10,7 @@ I have experience in all stages of project lifecycle, including activity plannin
  
 Having a keen interest in software development, I decided to join Makers Academy which is one of the leading developer bootcamps in Europe. With Makers I have learned the principles of software developer craftsmanship and now I am ready to take on a new challenge. 
  
-I am seeking an opportunity in an environment where I will continue to develop as a front end developer and participate in defining success. This would give me the support to expand my knowledge, improve my skills, learn new techniques and progress professionally. 
+I am seeking an opportunity in an environment where I will continue to develop and participate in defining success. This would give me the support to expand my knowledge, improve my skills, learn new technologies, techniques and progress professionally. 
 
 ## Understanding of:
 
